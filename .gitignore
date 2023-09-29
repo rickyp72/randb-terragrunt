@@ -1,0 +1,9 @@
+.idea
+venv
+.terraform/*
+.terragrunt-cache
+.venv
+.terraform
+*.yaml
+*.zip
+*.lock.hcl
