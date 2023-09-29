@@ -5,7 +5,7 @@ locals {
 }
 
 terraform {
-  source = "../../../../modules//lambda_iam"
+  source = "../../modules//lambda_iam"
 }
 
 include {

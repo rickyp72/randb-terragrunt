@@ -6,7 +6,7 @@ locals {
 
 
 terraform {
-  source = "../../../../modules//subnet"
+  source = "../../modules//subnet"
 }
 
 include {
